@@ -1,5 +1,5 @@
 {
-  "name": "Gastby cloud deploy trail",
+  "name": "gastby-cloud-deploy-trail",
   "private": true,
   "description": "This is the test site which i'm going to deploy in gatsby cloud to get something new",
   "version": "0.1.0",
@@ -40,7 +40,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/professionalchandru/gatsby-starter-blog.git"
+    "url": "https://github.com/professionalchandru/gatsby-cloud-deploy-for-swag.git"
   },
   "scripts": {
     "build": "gatsby build",

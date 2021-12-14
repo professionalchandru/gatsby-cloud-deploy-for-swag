@@ -6,7 +6,7 @@ module.exports = {
       summary: `You can call me a Chan too`,
     },
     description: `This is the test site which i'm going to deploy in gatsby cloud to get something new`,
-    siteUrl: `https://gatsbystarterdemoblog.gatsbyjs.io/`,
+    siteUrl: `https://trailgatsbycloud.gatsbyjs.io/`,
   },
   plugins: [
     `gatsby-plugin-image`,

@@ -1,0 +1,1 @@
+# gatsby-cloud-deploy-for-swag

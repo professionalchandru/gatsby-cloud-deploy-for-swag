@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Gastby cloud deploy trail",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "This is the test site which i'm going to deploy in gatsby cloud to get something new",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Chandru",
   "dependencies": {
     "gatsby": "^4.3.0",
     "gatsby-plugin-feed": "^4.3.0",
@@ -35,15 +32,15 @@
   "devDependencies": {
     "prettier": "^2.4.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "gatsby cloud"
   ],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/professionalchandru/gatsby-starter-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
